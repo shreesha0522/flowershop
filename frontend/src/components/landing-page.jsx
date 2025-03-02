@@ -20,7 +20,7 @@ import flowershop from "../images/flowershop.png"
 
 
 const LandingPage = () => {
-  // Featured products dataa
+
   const featuredProducts = [
     {
       id: 1,
