@@ -368,4 +368,3 @@ const LandingPage = () => {
 
 export default LandingPage
 
-//je
